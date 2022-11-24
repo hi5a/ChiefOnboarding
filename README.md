@@ -41,8 +41,9 @@ See details here: [ChiefOnboarding on Docker Hub](https://hub.docker.com/r/chief
 
 **Render**
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/chiefonboarding/chiefonboarding)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hi5a/chiefonboarding)
 
+##This is set to the free plan
 
 ## Support
 This software is provided under an open source license and comes as is. If you have any questions, then you will have to open an issue on Github for that. If you want guaranteed, quick support, then we offer a paid support package for that (best effort - generally under 2 hours response time). Please see our [pricing page](https://chiefonboarding.com/pricing) for more details. 
@@ -54,3 +55,5 @@ Please do not create an issue if you found a potential security issue. Email me 
 
 ## License
 This project is licensed under the AGPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
