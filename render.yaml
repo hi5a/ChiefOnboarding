@@ -1,6 +1,7 @@
 databases:
   - name: chiefonboardingdb
     region: frankfurt
+    plan: free
     databaseName: chiefonboardingdb
     ipAllowList: []
 
